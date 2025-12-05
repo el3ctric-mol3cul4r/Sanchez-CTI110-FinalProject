@@ -87,7 +87,7 @@ Use this section to outline areas that you want to continue focusing on in futur
 ### Useful resources
 
 - [CSS Grid Layout Guide](https://css-tricks.com/snippets/css/complete-guide-grid/) - This REALLY helped with figuring out the grid layout of the bento website. It's insanely detailed while still staying concise and clear.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
+- [CSS Rounded Corners](https://www.w3schools.com/css/css3_borders.asp) - This helped me know how to use the border-radius property, because the parameters were initially confusing to me.
 
 **Note: Delete this note and replace the list above with resources that helped you during the challenge. These could come in handy for anyone viewing your solution or for yourself when you look back on this project in the future.**
 
@@ -96,9 +96,3 @@ Use this section to outline areas that you want to continue focusing on in futur
 - Website - [Add your name here](https://www.your-site.com)
 
 **Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
-
-## Acknowledgments
-
-This is where you can give a hat tip to anyone who helped you out on this project. Perhaps you worked in a team or got some inspiration from someone else's solution. This is the perfect place to give them some credit.
-
-**Note: Delete this note and edit this section's content as necessary. If you completed this challenge by yourself, feel free to delete this section entirely.**
