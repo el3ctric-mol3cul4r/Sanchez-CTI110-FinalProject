@@ -33,8 +33,8 @@ Add a screenshot of your solution. The easiest way to do this is to use Firefox 
 
 ### Links
 
-- Repository URL: [Add repository URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Repository URL: [Add repository URL here](https://github.com/el3ctric-mol3cul4r/Sanchez-CTI110-FinalProject.git)
+- Live Site URL: [Add live site URL here](https://el3ctric-mol3cul4r.github.io/Sanchez-CTI110-FinalProject/)
 
 ## My process
 
@@ -98,5 +98,5 @@ I definitely need to review whatever the heck mobile compatibility was. I also w
 
 ## Author
 
-- Website - [Charlie Sanchez](https://www.your-site.com)
+- Website - [Charlie Sanchez](https://el3ctric-mol3cul4r.github.io/Sanchez-CTI110-FinalProject/)
 
