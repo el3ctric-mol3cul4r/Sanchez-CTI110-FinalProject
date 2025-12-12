@@ -8,6 +8,20 @@
     font-weight: 500;
 }
 
+@media (max-width: 768px) {
+
+  .parent {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+  }
+
+  .parent > * {
+    grid-column: auto !important;
+    grid-row: auto !important;
+    width: 100%;
+  }
+}
 
 /** Colors 
 
@@ -19,8 +33,6 @@
 
 - White: hsl(0, 0%, 100%)
 - Black: hsl(0, 0%, 7%)
-
-MAKE SURE TO ALIGN SCHEDULE IMAGE RIGHT
 
 **/
 
